@@ -1,0 +1,17 @@
+{
+  "uuid": "212f2a7f-07c8-4ade-b8f2-d4ea070c42aa",
+  "name": "Giovanni",
+  "teamChat": true,
+  "teamUUID": "71d84e78-7fc8-4428-bc50-6cbfe9042988",
+  "permissionNode": {
+    "permissions": [
+      "easyteam.create",
+      "easyteam.info",
+      "easyteam.list",
+      "easyteam.help"
+    ],
+    "allowAll": false,
+    "admin": false
+  },
+  "role": "admin"
+}
